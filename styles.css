@@ -29,7 +29,6 @@
   padding: 0;
   text-align: end;
   position: fixed; /* Agregar la posición fixed */
-  z-index: 999; /* Asegurarse de que el menú esté por encima del contenido */
   width: 100%;
   transition: background-color 0.3s ease; /* Agregar una transición de color de fondo */
 }
